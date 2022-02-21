@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [FileWave](https://www.filewave.com/)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
+- 📫 How to reach me: [Mail](mailto:khamian@gmail.com)
+
 <!--
 **damianwojcik/damianwojcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
