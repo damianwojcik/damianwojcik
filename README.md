@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [FileWave](https://www.filewave.com/)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
+- 💬 Ask me about anything
 - 📫 How to reach me: [Mail](mailto:khamian@gmail.com)
 
 <!--
