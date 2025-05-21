@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on [FileWave](https://www.filewave.com/) - [GH](https://github.com/damianwojcik-iteo)
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 📫 How to reach me: [Mail](mailto:khamian@gmail.com)
 
 <!--
